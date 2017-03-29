@@ -24,7 +24,7 @@ $ git push
 ```sh
 
 $ git remote set-url origin git@github.com:lyuehwu/GitCommands.git
-
+$                           git@github.com:lyuehwu/GitCommands.git
 
 ```
 
