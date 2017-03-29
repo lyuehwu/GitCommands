@@ -22,7 +22,7 @@ $ git push
 ### No more username & password input for every push
 
 ```sh
-
+$ NEED TO SET SSH KEY FIRST!!!
 $ git remote set-url origin git@github.com:lyuehwu/GitCommands.git
 $                           git@github.com:lyuehwu/GitCommands.git
 
