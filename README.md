@@ -2,7 +2,7 @@
 
 ### Creating repository online for the <b>first time</b>!
 
-```
+``` sh
 $ touch README.md
 $ git init
 $ git add README.md
@@ -13,7 +13,7 @@ $ git push -u origin master
 ```
 
 ### When adding on tto your repository online with changes
-```
+``` sh
 $ git add .
 $ git commit -m 'what has changed'
 $ git push
