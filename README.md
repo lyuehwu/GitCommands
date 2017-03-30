@@ -43,3 +43,15 @@ $git clone https://github.com/lyuehwuFACK/GitCommands.git
 $ git rm --cached localFileName
 $ add localFileName to .gitignore file and then commit these changes
 ```
+
+### Commands for fixing problems
+
+```sh
+# undo multiple commits
+$ git reset --hard commitSHA###... = changes staging index and local folder to match online repository commit
+
+```
+# removing 3 commits from online github repo
+$ git push -f origin HEAD^^^:branchNameToUndoLast3Pushs
+```
+
