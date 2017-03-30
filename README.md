@@ -6,6 +6,7 @@
 $ touch README.md
 $ git init
 $ git add README.md
+$ git add -u # when you have deleted a local file you want to remove
 $ git commit -m "first commit"
 $ git remote add origin https://github.com/lyuehwu/GitCommands.git
 $ git push -u origin master
