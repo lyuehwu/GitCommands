@@ -37,4 +37,9 @@ $                           git@github.com:lyuehwu/GitCommands.git
 $git clone https://github.com/lyuehwuFACK/GitCommands.git
 ```
 
+### WAnt to remove a file from online github repo but keep it locally
 
+```sh
+$ git rm --cached localFileName
+$ add localFileName to .gitignore file and then commit these changes
+```
