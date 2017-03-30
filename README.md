@@ -65,7 +65,6 @@ $ git push origin newBranchName #adds new branch to github repo
 # push commits
 
 # mergin new branch to old branch
-
 $ git checkout oldBranchName
 $ git merge newBranchName #
 $ git branch -d branchName ToDelete #delete branch while you are on a different branch
