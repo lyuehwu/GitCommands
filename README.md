@@ -29,5 +29,12 @@ $                           git@github.com:lyuehwu/GitCommands.git
 
 ```
 
+### Working together from perspective of person that doesn't have the main rrepo
+
+```sh
+
+#fork repo you want to work on
+$git clone https://github.com/lyuehwuFACK/GitCommands.git
+```
 
 
